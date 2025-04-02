@@ -1,7 +1,7 @@
 package actividadesETS.UT4.A3_JavaDoc;
 
 /**
- * Representa un círculo 2D,
+ * Representa un círculo bidimensional
  * definido por su centro (x, y) y su radio.
  */
 public class Circulo {
