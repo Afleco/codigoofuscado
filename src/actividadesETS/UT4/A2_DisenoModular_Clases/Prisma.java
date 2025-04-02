@@ -40,7 +40,6 @@ public class Prisma implements Comparable<Prisma>{
     }
 
     // Métodos
-
     /**
      * Calcula la altura del triángulo utilizando su base
      * @return devuelve la altura ya calculada con la formula indicada y casteada a float
