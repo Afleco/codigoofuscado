@@ -3,6 +3,11 @@ package actividadesETS.UT4.A1_CodigoOfuscado;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Reorganizar el código y renombrar variables y funciones
+ * para hacerlo más legible
+ */
+
 public class E1_CodigoOfuscado {
     public static void print(String message) {
         System.out.println(message);
